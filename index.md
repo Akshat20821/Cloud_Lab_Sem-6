@@ -1,8 +1,8 @@
 # Containerisation-and-DevOPs
 
-Name - Akshat Gupta 
-Sap id - 500120218
-Batch - B.tech_CSE_B3_CCVT
+-Name - Akshat Gupta 
+-Sap id - 500120218
+-Batch - B.tech_CSE_B3_CCVT
 
 ## Labs 
 
